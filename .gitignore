@@ -1,2 +1,5 @@
 data/
 data/
+*.png
+mlruns/
+*.csv
