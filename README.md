@@ -430,7 +430,7 @@ Tree-based მოდელები პირდაპირ ვერ აღი
 ```python
 ['n_estimators': 1000, 'learning_rate': 0.05, 'lambda_l1': 0.5, 'lambda_l2': 0.5, 'num_leaves': 50]
 ```
-<img src="lightgbm-f-i.png" alt="LightGBM Feature Importance" width="800"/>
+<img src="lightgbm-f-i.jpg" alt="LightGBM Feature Importance" width="800"/>
 
 - **საბოლოო WMAE ვალიდდაციაზე: 3557.90052**
 ## N-BEATS მოდელი (Deep Learning)
